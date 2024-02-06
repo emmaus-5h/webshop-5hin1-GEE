@@ -219,6 +219,7 @@ zie video 6 van https://informatica.emmauscollege.nl/opdrachten/webshop/
 - mapje web/index.html
 - onder de regel <!-- template for product info--> staat het template voor een prodcut
 - het template wordt gekopieerd voor elk product dat je op je site toont
-- als je een veld aan het template hebt toegveoegd, dan moet je de waarde erin laten zetten
-- 
+- als je een veld aan het template hebt toegveoegd,
+- dan moet je de waarde erin laten zetten
+- dat doe je bij de code onder   // voeg product toe aan DOM, 
 
